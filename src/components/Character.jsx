@@ -24,7 +24,7 @@ const Character = () => {
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
-        className="character-content"
+        className="character-content character-enhanced"
       >
         <h1 className="character-title">
           Meet My Character: The Enchanting Shada

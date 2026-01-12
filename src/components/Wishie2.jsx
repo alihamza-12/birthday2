@@ -33,7 +33,7 @@ const Wishie2 = () => {
         initial={{ opacity: 0, y: 50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
-        className="wishie-content"
+        className="wishie-content wishie2-content"
       >
         <h1 className="wishie-title">Wishie 2: The Creative Dreamer</h1>
         <div className="wishie-description">
